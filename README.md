@@ -22,7 +22,7 @@ Annotations are a powerful aspect of the Spring Framework, providing a concise a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/spring-annotations-demo.git
+git clone https://github.com/iammahesh123/spring-annotations-demo.git
 ```
 2. Navigate to the project directory:
 ```bash
